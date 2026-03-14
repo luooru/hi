@@ -7,7 +7,7 @@
   <p align="center">
   </p>
 <p align="center">
-<img width="11" height="11" alt="image" src=https://pixelsafari.neocities.org/favicon/food/sweet/cake32.gif />                                         hi <img width="11" height="11" alt="image" src=https://pixelsafari.neocities.org/favicon/food/sweet/cookie9.gif />
+<img width="5" height="5" alt="image" src=https://pixelsafari.neocities.org/favicon/food/sweet/cake32.gif />                                         hi <img width="5" height="11" alt="image" src=https://pixelsafari.neocities.org/favicon/food/sweet/cookie9.gif />
 <p align="center">
 
 
